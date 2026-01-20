@@ -1,4 +1,4 @@
-# 🌟 Telegram Auto Backup Bot
+# 🌟 Telegram Auto Backup Bot.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Automated+Telegram+Backup;ZIP+Folders+%26+Large+Files;Ignore+Patterns+Support;Real-Time+Progress+Bar" />
