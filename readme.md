@@ -57,15 +57,7 @@ The bot will automatically check for updates every 10 seconds.
 *.tmp
 secret.txt
 cache/
-```
-
----
-
-## 👤 Author
-**Amit Kadam**  
-GitHub: https://github.com/piyushkadam96k  
-Telegram: @K9agentonduty  
-Email: kadamamit462@gmail.com  
+```
 
 ---
 ## ⭐ Support the Project
